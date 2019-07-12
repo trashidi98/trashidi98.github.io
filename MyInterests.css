@@ -1,0 +1,39 @@
+h1{
+
+	text-align: center;
+	color: blue;
+}
+
+body {
+  background-image: url("https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  font-family: sans-serif;
+}
+
+a:link, a:visited {
+  background-color: blue;
+  color: white;
+  padding: 5px 5px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #783b3f;
+}
+
+.lists {
+
+	font-style: italic;
+}
+
+h3{
+
+	text-decoration: underline;
+	color: #05843C;
+}
+
+.titlesentence{
+
+	text-align: center;
+}
